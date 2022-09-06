@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){const e=document.getElementById("content");console.log(e),e.innerHTML="";const n=document.createElement("div"),t=document.createElement("h3");t.textContent="Julie's is now Open for Business!";const o=document.createElement("img");o.src="./images/Julie's_logo_2020.png",n.appendChild(t),n.appendChild(o),e.appendChild(n)}()})();
